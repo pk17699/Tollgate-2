@@ -1,0 +1,20 @@
+{
+  "books": [
+    {
+      "book": "harry potter",
+      "genre": "action",
+      "availability": "",
+      "date": "2022-06-27",
+      "id": 1
+    }
+  ],
+  "favorite": [
+    {
+      "book": "ktkmkmm",
+      "genre": "",
+      "availability": "",
+      "date": "2022-07-16",
+      "id": 1
+    }
+  ]
+}

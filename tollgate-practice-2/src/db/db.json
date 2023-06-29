@@ -1,0 +1,20 @@
+{
+  "students": [
+    {
+      "name": "fkrmkgmkmrg",
+      "dob": "2022-07-08",
+      "gender": "male",
+      "address": "l,glrg,lgr,",
+      "mobile": "849348948984",
+      "id": 1
+    },
+    {
+      "name": "glfgfmkgmkg",
+      "dob": "2022-07-23",
+      "gender": "female",
+      "address": "gmgkmg",
+      "mobile": "49395893585",
+      "id": 2
+    }
+  ]
+}
